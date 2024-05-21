@@ -60,9 +60,7 @@ const generateComment = async () => {
 
     document.getElementById("textarea").value = ""
 
-    setTimeout(() => {
-        location.reload()
-    }, 1500);
+   
 }
 
 
